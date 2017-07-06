@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Demo</string>
+    <string name="food_name">食物名字</string>
+</resources>
